@@ -2,16 +2,12 @@
 
 M.Sc. Intelligence Artificielle — UQAM
 
----
-
 ## Interests:
 - LLMs
 - AI Agents
 - Machine Learning
 - Statistical Learning
 - Knowledge Systems
-
----
 
 ## Current work:
 ### Master thesis
@@ -28,21 +24,15 @@ A set of experimental projects focused on:
 - autonomous AI agents for data analysis
 - knowledge-augmented reasoning systems
 
----
-
 ## Core Research projects :
 - name + [link-repo] + short summary
 - name + [link-repo] + short summary
 - name + [link-repo] + short summary
 
----
-
 ## Other works
 - name + [link-repo] + short summary
 - name + [link-repo] + short summary
 - name + [link-repo] + short summary
-
----
 
 ## Academic & Applied Projects
 - name + [link-repo] + short summary
