@@ -35,6 +35,7 @@ A set of experimental projects focused on:
 - name + [link-repo] + short summary
 
 ## Academic & Applied Projects
-- (ML) [Tweets Classification](https://github.com/BlayTeuR/ML_positive_or_negative_tweet_rating) - quantitative evaluation of several classification algorithms : AdaBoost, Bagging, Decision Tree, GBoost, Random Forest
-- (ML) [Animals Classification using CNN](https://github.com/BlayTeuR/Animals_classification_using_CNN) + Development of a solution using convolutional neural networks capable of distinguishing between three marine species: the whale, the shark and the whale shark
+(ML) [Tweets Classification](https://github.com/BlayTeuR/ML_positive_or_negative_tweet_rating) - quantitative evaluation of several classification algorithms : AdaBoost, Bagging, Decision Tree, GBoost, Random Forest
+
+(ML) [Animals Classification using CNN](https://github.com/BlayTeuR/Animals_classification_using_CNN) - Development of a solution using convolutional neural networks capable of distinguishing between three marine species: the whale, the shark and the whale shark
 - name + [link-repo] + short summary
