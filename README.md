@@ -35,6 +35,6 @@ A set of experimental projects focused on:
 - name + [link-repo] + short summary
 
 ## Academic & Applied Projects
-- name + [link-repo] + short summary
+(ML) [Tweets Classification]([https://github.com/vuejs/vue](https://github.com/BlayTeuR/ML_positive_or_negative_tweet_rating))
 - name + [link-repo] + short summary
 - name + [link-repo] + short summary
