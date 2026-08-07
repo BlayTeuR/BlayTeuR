@@ -41,3 +41,5 @@ A set of experimental projects focused on:
 (ML) [Animals Classification using CNN](https://github.com/BlayTeuR/Animals_classification_using_CNN) - Development of a solution using convolutional neural networks capable of distinguishing between three marine species: the whale, the shark and the whale shark
 
 (ML) [Autoencooder](https://github.com/BlayTeuR/Autoencodeur) - Design and evaluation of an autoencoder created from two classes: shark and dolphin
+
+(Big Data) [Projects link](https://github.com/BlayTeuR/Big-Data) - Academic projects completed as part of the Big Data Processing and Analysis course during my master's degree
