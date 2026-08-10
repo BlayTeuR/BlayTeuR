@@ -28,7 +28,7 @@ A set of experimental projects focused on:
 - name + [link-repo] + short summary
 
 ## Other works
-[ai-lab](https://github.com/BlayTeuR/ai-lab) + A collection of exercises and experiments to deeply explore and understand how the major fields of artificial intelligence work
+[ai-lab](https://github.com/BlayTeuR/ai-lab) - A collection of exercises and experiments to deeply explore and understand how the major fields of artificial intelligence work
 
 ## Academic & Applied Projects
 
@@ -40,4 +40,4 @@ A set of experimental projects focused on:
 
 (ML) [Autoencooder](https://github.com/BlayTeuR/Autoencodeur) - Design and evaluation of an autoencoder created from two classes: shark and dolphin
 
-(Big Data) [Projects link](https://github.com/BlayTeuR/Big-Data) - Academic projects completed as part of the Big Data Processing and Analysis course during my master's degree
+(Big Data) [Projects link](https://github.com/BlayTeuR/Big-Data) - Academic projects completed as part of the Big Data Processing and Analysis course during my master's degree (Batch ML Pipeline with Dask & Distributed RAG Pipeline with Ray)
