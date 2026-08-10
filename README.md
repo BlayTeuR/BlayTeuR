@@ -25,8 +25,7 @@ A set of experimental projects focused on:
 - knowledge-augmented reasoning systems
 
 ## Core Research projects :
-- name + [link-repo] + short summary
-
+[work in progress]
 ## Other works
 [ai-lab](https://github.com/BlayTeuR/ai-lab) - A collection of exercises and experiments to deeply explore and understand how the major fields of artificial intelligence work
 
