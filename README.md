@@ -26,8 +26,6 @@ A set of experimental projects focused on:
 
 ## Core Research projects :
 - name + [link-repo] + short summary
-- name + [link-repo] + short summary
-- name + [link-repo] + short summary
 
 ## Other works
 [ai-lab](https://github.com/BlayTeuR/ai-lab) + A collection of exercises and experiments to deeply explore and understand how the major fields of artificial intelligence work
