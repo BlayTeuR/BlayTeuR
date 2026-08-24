@@ -24,7 +24,7 @@ A set of experimental projects focused on:
 - autonomous AI agents for data analysis
 - knowledge-augmented reasoning systems
 
-## Core Research projects :
+## Core projects :
 [work in progress]
 ## Other works
 [ai-lab](https://github.com/BlayTeuR/ai-lab) - A collection of exercises and experiments to deeply explore and understand how the major fields of artificial intelligence work
