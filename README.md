@@ -25,18 +25,17 @@ A set of experimental projects focused on:
 - knowledge-augmented reasoning systems
 
 ## Core projects :
-[work in progress]
-## Other works
-[ai-lab](https://github.com/BlayTeuR/ai-lab) - A collection of exercises and experiments to deeply explore and understand how the major fields of artificial intelligence work
-
-## Academic & Applied Projects
 
 (SPM) [Sequential Pattern Mining : Étude Comparative Expérimentale](https://github.com/BlayTeuR/Benchmark_SP_SPMF) - Benchmarking Five Sequential Pattern Mining Algorithms: GSP, SPADE, SPAM, CM-SPAM, and PrefixSpan
 
+## Other works
+
+(Big Data) [Projects link](https://github.com/BlayTeuR/Big-Data) - Academic projects completed as part of the Big Data Processing and Analysis course during my master's degree (Batch ML Pipeline with Dask & Distributed RAG Pipeline with Ray)
+
 (ML) [Tweets Classification](https://github.com/BlayTeuR/ML_positive_or_negative_tweet_rating) - quantitative evaluation of several classification algorithms : AdaBoost, Bagging, Decision Tree, GBoost, Random Forest
+
+## Applied Projects
 
 (ML) [Animals Classification using CNN](https://github.com/BlayTeuR/Animals_classification_using_CNN) - Development of a solution using convolutional neural networks capable of distinguishing between three marine species: the whale, the shark and the whale shark
 
 (ML) [Autoencooder](https://github.com/BlayTeuR/Autoencodeur) - Design and evaluation of an autoencoder created from two classes: shark and dolphin
-
-(Big Data) [Projects link](https://github.com/BlayTeuR/Big-Data) - Academic projects completed as part of the Big Data Processing and Analysis course during my master's degree (Batch ML Pipeline with Dask & Distributed RAG Pipeline with Ray)
