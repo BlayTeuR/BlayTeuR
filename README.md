@@ -30,7 +30,7 @@ A set of experimental projects focused on:
 
 ## Other works
 
-(Big Data) [Projects link](https://github.com/BlayTeuR/Big-Data) - Academic projects completed as part of the Big Data Processing and Analysis course during my master's degree (Batch ML Pipeline with Dask & Distributed RAG Pipeline with Ray)
+(Big Data & ML) [Projects link](https://github.com/BlayTeuR/Big-Data) - Two distributed pipelines: a taxi trip-duration predictor (Random Forest, 4-worker Dask cluster, ~68\% MAE reduction vs. baseline) and a parallelized RAG pipeline (Ray-distributed embeddings, FAISS retrieval, validated against a sequential baseline).
 
 (ML) [Tweets Classification](https://github.com/BlayTeuR/ML_positive_or_negative_tweet_rating) - quantitative evaluation of several classification algorithms : AdaBoost, Bagging, Decision Tree, GBoost, Random Forest
 
