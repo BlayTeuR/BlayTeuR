@@ -17,13 +17,6 @@ Focus:
 - Ontology-driven consistency in software systems
 - Conflict detection in domain models
 
-### AI Research Portfolio
-A set of experimental projects focused on:
-- evaluation of LLM-based systems
-- statistical benchmarking of ML models
-- autonomous AI agents for data analysis
-- knowledge-augmented reasoning systems
-
 ## Core projects :
 
 (SPM) [Sequential Pattern Mining : Étude Comparative Expérimentale](https://github.com/BlayTeuR/Benchmark_SP_SPMF) - Benchmarking Five Sequential Pattern Mining Algorithms: GSP, SPADE, SPAM, CM-SPAM, and PrefixSpan
