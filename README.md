@@ -31,10 +31,10 @@ Focus:
 | [**Convolutional autoencoder**](https://github.com/BlayTeuR/Autoencodeur) | Unsupervised representation learning with a linear-probe evaluation and t-SNE | Linear probe **+5.6 pts** over raw pixels |
 
 ### Toolbox
-**ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · Hugging Face (Transformers, Datasets, Sentence-Transformers) · FAISS
-**Data & distributed:** pandas · NumPy · Spark · Dask · Ray · SQL / MongoDB / DynamoDB
-**Engineering:** Python · Java · FastAPI · Docker · Git · AWS (SQS, DynamoDB)
-**Knowledge representation:** OWL ontologies · Domain-Driven Design
+- **ML / DL:** PyTorch · TensorFlow/Keras · scikit-learn · Hugging Face (Transformers, Datasets, Sentence-Transformers) · FAISS
+- **Data & distributed:** pandas · NumPy · Spark · Dask · Ray · SQL / MongoDB / DynamoDB
+- **Engineering:** Python · Java · FastAPI · Docker · Git · AWS (SQS, DynamoDB)
+- **Knowledge representation:** OWL ontologies · Domain-Driven Design
 
 ### Background
 - **M.Sc. Computer Science, AI concentration**, UQAM (2025–2027): ML, AI foundations, pattern mining, big data. Model-Driven Design course taken at Université de Montréal.
