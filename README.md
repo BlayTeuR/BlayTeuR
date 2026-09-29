@@ -3,7 +3,7 @@
 **M.Sc. student in Computer Science (Artificial Intelligence) at [UQAM](https://uqam.ca), Montréal.**
 I work on **large language models combined with structured knowledge (ontologies)**, and on the careful, reproducible evaluation of ML systems.
 
-Looking for a PhD position starting Fall 2027** in NLP / LLMs, knowledge-grounded reasoning or ML.
+Looking for a PhD position starting Fall 2027 in NLP / LLMs, knowledge-grounded reasoning or ML.
 
 ## Interests:
 - LLMs
